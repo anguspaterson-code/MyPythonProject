@@ -1,0 +1,1 @@
+print ("Hi, My name is Angus and I am going to learn everything about python")
